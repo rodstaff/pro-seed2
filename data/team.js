@@ -1,11 +1,11 @@
-import rodFar1 from '../public/images/team/libertyNY.jpg'
-import rodFar2 from '../public/images/team/bernSwiss.jpg'
-import rodFar3 from '../public/images/team/bora2Tahiti.jpg'
-import rodFar4 from '../public/images/team/caveTurkey.jpg'
-import rodFar5 from '../public/images/team/chenonceaux.jpg'
-import rodFar6 from '../public/images/team/corcovadoBrazil.jpg'
-import rodFar7 from '../public/images/team/grandCanyon.jpg'
-import rodFar8 from '../public/images/team/pisaItaly.jpg'
+import rodFar1 from '../public/images/team/somewhere.jpeg'
+import rodFar2 from '../public/images/team/somewhere.jpeg'
+import rodFar3 from '../public/images/team/somewhere.jpeg'
+import rodFar4 from '../public/images/team/somewhere.jpeg'
+import rodFar5 from '../public/images/team/somewhere.jpeg'
+import rodFar6 from '../public/images/team/somewhere.jpeg'
+import rodFar7 from '../public/images/team/somewhere.jpeg'
+import rodFar8 from '../public/images/team/somewhere.jpeg'
 
 export default function() {
   return [
@@ -16,7 +16,7 @@ export default function() {
   	  title: "Project Manager",
   	  linkedin: "https://www.linkedin.com/in/rodk88",
   	  photo: rodFar1,
-      size: "342 Kbyte"
+      size: "7 Kbyte"
     }, 
     {
   	  id: 2,
@@ -25,7 +25,7 @@ export default function() {
   	  title: "Web Developer",
   	  linkedin: "https://www.linkedin.com/in/rodk88",
   	  photo: rodFar2,
-      size: "448 Kbyte"
+      size: "7 Kbyte"
     }, 
     {
   	  id: 3,
@@ -34,7 +34,7 @@ export default function() {
   	  title: "Business Developer",
   	  linkedin: "https://www.linkedin.com/in/rodk88",
   	  photo: rodFar3,
-      size: "298 Kbyte"
+      size: "7 Kbyte"
     }, 
     {
   	  id: 4,
@@ -43,7 +43,7 @@ export default function() {
   	  title: "Hardware Circuit Engineer",
   	  linkedin: "https://www.linkedin.com/in/rodk88",
   	  photo: rodFar4,
-      size: "344 Kbyte"
+      size: "7 Kbyte"
     },
         {
       id: 5,
@@ -52,7 +52,7 @@ export default function() {
       title: "Assistant #1",
       linkedin: "https://www.linkedin.com/in/rodk88",
       photo: rodFar5,
-      size: "301 Kbyte"
+      size: "7 Kbyte"
     }, 
     {
       id: 6,
@@ -61,7 +61,7 @@ export default function() {
       title: "Assistant #2",
       linkedin: "https://www.linkedin.com/in/rodk88",
       photo: rodFar6,
-      size: "336 Kbyte"
+      size: "7 Kbyte"
     }, 
     {
       id: 7,
@@ -70,7 +70,7 @@ export default function() {
       title: "Assistant #3",
       linkedin: "https://www.linkedin.com/in/rodk88",
       photo: rodFar7,
-      size: "217 Kbyte"
+      size: "7 Kbyte"
     }, 
     {
       id: 8,
@@ -79,7 +79,7 @@ export default function() {
       title: "Assistant #4",
       linkedin: "https://www.linkedin.com/in/rodk88",
       photo: rodFar8,
-      size: "216 Kbyte"
+      size: "7 Kbyte"
     }
   ];
 };
