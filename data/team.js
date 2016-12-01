@@ -16,7 +16,7 @@ export default function() {
   	  title: "Project Manager",
   	  linkedin: "https://www.linkedin.com/in/rodk88",
   	  photo: rodFar1,
-      size: "7 Kbyte"
+      size: "10 Kbyte"
     }, 
     {
   	  id: 2,
@@ -25,7 +25,7 @@ export default function() {
   	  title: "Web Developer",
   	  linkedin: "https://www.linkedin.com/in/rodk88",
   	  photo: rodFar2,
-      size: "7 Kbyte"
+      size: "10 Kbyte"
     }, 
     {
   	  id: 3,
@@ -34,7 +34,7 @@ export default function() {
   	  title: "Business Developer",
   	  linkedin: "https://www.linkedin.com/in/rodk88",
   	  photo: rodFar3,
-      size: "7 Kbyte"
+      size: "10 Kbyte"
     }, 
     {
   	  id: 4,
@@ -43,7 +43,7 @@ export default function() {
   	  title: "Hardware Circuit Engineer",
   	  linkedin: "https://www.linkedin.com/in/rodk88",
   	  photo: rodFar4,
-      size: "7 Kbyte"
+      size: "10 Kbyte"
     },
         {
       id: 5,
@@ -52,7 +52,7 @@ export default function() {
       title: "Assistant #1",
       linkedin: "https://www.linkedin.com/in/rodk88",
       photo: rodFar5,
-      size: "7 Kbyte"
+      size: "10 Kbyte"
     }, 
     {
       id: 6,
@@ -61,7 +61,7 @@ export default function() {
       title: "Assistant #2",
       linkedin: "https://www.linkedin.com/in/rodk88",
       photo: rodFar6,
-      size: "7 Kbyte"
+      size: "10 Kbyte"
     }, 
     {
       id: 7,
@@ -70,7 +70,7 @@ export default function() {
       title: "Assistant #3",
       linkedin: "https://www.linkedin.com/in/rodk88",
       photo: rodFar7,
-      size: "7 Kbyte"
+      size: "10 Kbyte"
     }, 
     {
       id: 8,
@@ -79,7 +79,7 @@ export default function() {
       title: "Assistant #4",
       linkedin: "https://www.linkedin.com/in/rodk88",
       photo: rodFar8,
-      size: "7 Kbyte"
+      size: "10 Kbyte"
     }
   ];
 };
