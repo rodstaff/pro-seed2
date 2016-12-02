@@ -63,7 +63,7 @@ export default class Register extends React.Component {
               <br />
               <div class="control-group">
                 <div class="controls">
-                  <button class="btn btn-primary btn-block"><h4>Register and Submit</h4></button>
+                  <button class="btn btn-primary btn-block"><h4>Submit</h4></button>
                 </div>
               </div>
             </fieldset>

@@ -13,10 +13,11 @@ export default class About extends React.Component {
     var myStyle2 = {
       marginRight: "20px",
       marginBottom: "10px",
-      marginLeft: "10px"
+      marginLeft: "15px"
     }
     var myStyle3 = {
-      color: "orange"
+      color: "orange",
+      marginLeft: "-6px"
     }
   	return (
 
