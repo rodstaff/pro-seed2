@@ -4,14 +4,14 @@ export default class Home extends React.Component {
   render() {
     var myStyle1 = {
       fontFamily: "Dosis",
-      paddingTop: "270px",
-      height: "700px",
+      paddingTop: "370px",
+      height: "930px",
       color:  "#fff",
       backgroundImage: `url(${this.props.bkImg[0].homeImg})`,
       backgroundSize: 'cover'
     }
     var myStyle2 ={
-      paddingTop: "240px",
+      paddingTop: "370px",
       color: "yellow"
     }
   	return (

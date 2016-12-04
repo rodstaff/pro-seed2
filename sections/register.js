@@ -4,8 +4,8 @@ export default class Register extends React.Component {
   render() {
     var myStyle1 = {
       fontFamily: "Dosis",
-      paddingTop: "50px",
-      paddingBottom: "20px",
+      paddingTop: "150px",
+      paddingBottom: "200px",
       height: "100%",
       color: "#000",
       backgroundColor: "#009973"
