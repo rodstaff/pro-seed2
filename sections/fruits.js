@@ -6,7 +6,9 @@ export default class Fruits extends React.Component {
     var myStyle = {
       fontFamily: "Dosis",
       paddingTop: "50px",
-      paddingBottom: "20px",
+      paddingBottom: "50px",
+      paddingLeft: "60px",
+      paddingRight: "60px",
       height: "100%",
       color: "#000",
       backgroundColor: "#ffcc00"

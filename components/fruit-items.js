@@ -18,7 +18,7 @@ export default class FruitItems extends React.Component {
         <h4>{cname}</h4>
         <h5><em>{lname}</em></h5>
         <h5>Price:&nbsp;&nbsp;${price}</h5>
-        <label style={myStyle2}>{size}<a href={link}><img src={img} height="150px" class="thumbnail center-block" /></a></label>
+        <label style={myStyle2}>{size}<a href={link}><img src={img} height="100px" class="thumbnail center-block" /></a></label>
       </div>
     );
   }

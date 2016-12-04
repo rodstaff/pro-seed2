@@ -14,7 +14,7 @@ export default class About extends React.Component {
       marginRight: "30px",
       marginBottom: "30px",
       marginLeft: "30px",
-      width: "930px" 
+      height: "680px" 
     }
     var myStyle3 = {
       color: "orange",
