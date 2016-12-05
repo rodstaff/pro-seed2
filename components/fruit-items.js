@@ -13,12 +13,16 @@ export default class FruitItems extends React.Component {
     const myStyle2 ={
       color: "green"
     }
+    const myStyle3 ={
+      height: "150px",
+      width: "200px"
+    }
     return (
       <div class="col-lg-3 col-md-4 col-sm-6 text-center" style={myStyle1}>
         <h4>{cname}</h4>
         <h5><em>{lname}</em></h5>
         <h5>Price:&nbsp;&nbsp;${price}</h5>
-        <label style={myStyle2}>{size}<a href={link}><img src={img} height="100px" class="thumbnail center-block" /></a></label>
+        <label style={myStyle2}>{size}<a href={link}><img src={img} style={myStyle3} class="thumbnail center-block" /></a></label>
       </div>
     );
   }
